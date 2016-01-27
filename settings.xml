@@ -3,7 +3,7 @@
     <!-- Name is optional -->
     <!--name>Synchronous Client 0</name-->
 	<server>
-		<ip>192.168.0.18</ip>
+		<ip>192.168.0.32</ip>
 		<port>9002</port>
 	</server>
 	<local_dimensions>
